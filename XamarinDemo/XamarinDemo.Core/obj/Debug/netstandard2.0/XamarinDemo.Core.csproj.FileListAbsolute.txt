@@ -1,0 +1,8 @@
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/bin/Debug/netstandard2.0/XamarinDemo.Core.deps.json
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/bin/Debug/netstandard2.0/XamarinDemo.Core.dll
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/bin/Debug/netstandard2.0/XamarinDemo.Core.pdb
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/obj/Debug/netstandard2.0/XamarinDemo.Core.csproj.CoreCompileInputs.cache
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/obj/Debug/netstandard2.0/XamarinDemo.Core.AssemblyInfoInputs.cache
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/obj/Debug/netstandard2.0/XamarinDemo.Core.AssemblyInfo.cs
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/obj/Debug/netstandard2.0/XamarinDemo.Core.dll
+/Users/kaz.schmanski/Projects/XamarinDemo/XamarinDemo.Core/obj/Debug/netstandard2.0/XamarinDemo.Core.pdb

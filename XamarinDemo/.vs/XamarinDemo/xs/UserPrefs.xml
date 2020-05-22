@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A631D8F1-48AF-4767-BCC6-F9924FB92E10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDemo/obj/Debug/res/layout/pie_detail.xml">
+    <Files>
+      <File FileName="XamarinDemo/Resources/layout/activity_main.xml" Line="10" Column="18" />
+      <File FileName="XamarinDemo/PieDetailActivity.cs" Line="34" Column="61" />
+      <File FileName="XamarinDemo/MainActivity.cs" Line="10" Column="50" />
+      <File FileName="XamarinDemo/Resources/layout/pie_detail.axml" Line="12" Column="16" />
+      <File FileName="XamarinDemo/obj/Debug/res/layout/pie_detail.xml" Line="1" Column="1008" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinDemo" expanded="True">
+            <Node name="XamarinDemo" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="pie_detail.axml" selected="True" />
+                </Node>
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="XamarinDemo.Core" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinDemo AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.phone_l-dpi_2_7in_oreo_8_0_-_api_26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
